@@ -6,6 +6,6 @@ Makes Notification with a Chuck Norris Joke every 5 minutes!
 >
 > -_Chuck Norris_
 
-![./assets/screenshot.png](Screenshot)
+![[Screenshot](./assets/screenshot.png)
 
 Jokes are getting grabbed from [chucknorris.io](https://api.chucknorris.io/)
