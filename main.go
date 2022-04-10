@@ -48,7 +48,7 @@ func getJoke() {
 
 	log.Println(data["value"])
 
-	err = beeep.Notify("Chuck Norris Jokes!", data["value"].(string), "chuck.png")
+	err = beeep.Notify("Chuck Norris Jokes!", data["value"].(string), "./assets/chuck.png")
 	if err != nil {
 		log.Fatal(err)
 	}
